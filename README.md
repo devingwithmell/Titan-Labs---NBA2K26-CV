@@ -1,4 +1,4 @@
-# 🧬 TitanLabs – NBA2K Computer Vision Engine (Public Release)
+# 🧬 TitanLabs – NBA2K CV Engine
 
 This repository contains the **full TitanLabs CV-based Shot Automation Engine** used for real-time NBA2K meter detection, pixel analysis, dynamic shot timing, and Gtuner (Titan Two) output handling — combined with a fully featured **PyQt6 external GUI**, **KeyAuth authentication**, **Discord role verification**, and an advanced **anti-debug/VM/tamper security layer**.
 
