@@ -98,7 +98,7 @@ Compatible with Titan Two scripting pipelines.
 Clone the repo:
 
 ```sh
-git clone https://github.com/yourusername/TitanLabs-NBA2K-CVEngine.git
+git clone https://github.com/devingwithmell/Titan-Labs---NBA2K26-CV.git
 cd TitanLabs-NBA2K-CVEngine
 
 
